@@ -52,10 +52,7 @@ export default function App() {
       setEsperando(false);
     }
   } 
-    setMensajes(mensajes);
-    setEsperando(false);
-    setError("COMPLETA 4: falta enviar el mensaje. Esta en src/App.tsx.");
-  }
+    
 
   return (
     <div className="pagina">
